@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://github.com/satyamsingh-sg](https://github.com/satyamsingh-sg)
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,django,c++,**
+- 💬 Ask me about **HTML,CSS,Bootstrap,django,c++,python java,javascript**
 
 - 📫 How to reach me **s23singh2000@gmail.com**
 
