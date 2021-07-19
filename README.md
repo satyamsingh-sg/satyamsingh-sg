@@ -3,8 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamsingh-sg&label=Profile%20views&color=0e75b6&style=flat" alt="satyamsingh-sg" /> </p>
 
-- 🔭 I’m currently working on **jivaan raksha**
-
+- 
+- 🔭 I’m currently working on **ShopIndia**[https://github.com/satyamsingh-sg/ShopIndia.git](https://github.com/satyamsingh-sg/ShopIndia.git)
+- 
+  🔭  Projects  [https://github.com/satyamsingh-sg/Hospital_Review_System.git](https://github.com/satyamsingh-sg/Hospital_Review_System.git)
 - 👨‍💻 All of my projects are available at [https://satyamsingh-sg.github.io/Profile-skill/](https://satyamsingh-sg.github.io/Profile-skill/)
 
 - 📝 I regularly write articles on [https://github.com/satyamsingh-sg](https://github.com/satyamsingh-sg)
