@@ -6,7 +6,7 @@
 - 
 - 🔭 I’m currently working on **ShopIndia** [https://github.com/satyamsingh-sg/ShopIndia.git](https://github.com/satyamsingh-sg/ShopIndia.git)
 - 
-  🔭  Projects  [https://github.com/satyamsingh-sg/Hospital_Review_System.git](https://github.com/satyamsingh-sg/Hospital_Review_System.git)
+  🔭  Projects **Best Doctors & Hospitals Tracker** [https://github.com/satyamsingh-sg/Hospital_Review_System.git](https://github.com/satyamsingh-sg/Hospital_Review_System.git)
 - 👨‍💻 All of my projects are available at [https://satyamsingh-sg.github.io/Profile-skill/](https://satyamsingh-sg.github.io/Profile-skill/)
 
 
