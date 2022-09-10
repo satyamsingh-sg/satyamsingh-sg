@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer and backend from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamsingh-sg&label=Profile%20views&color=0e75b6&style=flat" alt="satyamsingh-sg" /> </p>
-
-- 
-- 
+ 
 - 
   🔭  Projects **Best Doctors & Hospitals Tracker** [https://github.com/satyamsingh-sg/Hospital_Review_System.git](https://github.com/satyamsingh-sg/Hospital_Review_System.git)
 
